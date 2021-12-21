@@ -1,0 +1,20 @@
+
+https://testnet.snowtrace.io/tx/0x1d10fa53aca2ee75c84ccf5c8adf8dccb958f22f1f5118a30c35579438473cac
+SC: 0xb9ba3cbb639326320fdf4d0a97c19f599522e81d
+
+
+
+
+
+
+
+https://testnet.snowtrace.io/address/0xb9ba3cbb639326320fdf4d0a97c19f599522e81d#code
+
+
+
+
+
+
+
+https://testnet.snowtrace.io/tx/0xc22ba0bfd8083357852549276fca197b63bb3dd1863ae9677ca2f930a82ca0de
+sC 0xB9ba3cbb639326320Fdf4D0A97C19f599522e81D
