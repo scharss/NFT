@@ -1,0 +1,24 @@
+
+
+https://testnet.bscscan.com/token/0x45a7ef0ea8ca756f15a473ae40f6b1969f730628
+sc: 0x45a7ef0ea8ca756f15a473ae40f6b1969f730628
+
+
+
+
+
+
+
+
+
+
+
+https://testnet.bscscan.com/tx/0xaa6069464fd16e4dc7a0653d3da0c099eab18bb8ec2329695dc59b7f6061baa3
+
+
+
+https://testnet.bscscan.com/address/0x45a7ef0ea8ca756f15a473ae40f6b1969f730628#code
+
+
+
+https://testnet.bscscan.com/tx/0xe526790dadf32203a27bfb474dfbaf709c4a0f65f6360f620d9b66f2292a4f41
