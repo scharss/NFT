@@ -1,0 +1,13 @@
+https://testnet.bscscan.com/tx/0xe3466f3b078f238cf2cc0a98ea1119217dbed5721672c164ac43d9434ff795cc
+SC: 0x3d223bf115d6b10d78ad604ff6d10152aaaa34a3
+
+
+
+
+
+
+
+
+
+https://testnet.bscscan.com/tx/0xdaa6c6501af42db0b33a8afd1518db87c7c2f384b82d0814fcf4fc7ee06d5e2a
+SC: 0x3D223Bf115d6B10D78Ad604FF6d10152aAAa34a3
