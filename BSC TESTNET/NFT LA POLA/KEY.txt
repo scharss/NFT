@@ -1,0 +1,32 @@
+img ipfs
+
+
+https://ipfs.io/ipfs/QmZXqemdWz1ukpVkQJs6X1wRczQBuQLmM8Bqb2UxCEvmUn
+
+
+json ipfs
+
+
+https://ipfs.io/ipfs/QmRGT1CvsWrX7JW8pXiS9BHvGDEUiseiibcY21HwygtS8p
+
+
+0.02490928BNB
+
+https://testnet.bscscan.com/tx/0xde1d86b83a62f6852a3bffdbeb17bd27f703ed55bd7c5fa24ca534e1c1feaebf
+
+
+https://testnet.bscscan.com/address/0x70db41239037a39b33ce12a9ca99ee71bb7a2adc#code
+
+
+0.00135997BNB
+
+https://testnet.bscscan.com/tx/0xe017fa6cf8495b61e849f469c8daa97eba4866fb8953fc3636da0b4ab28509f7
+
+SC
+
+0x70db41239037a39b33ce12a9ca99ee71bb7a2adc
+
+
+
+
+
