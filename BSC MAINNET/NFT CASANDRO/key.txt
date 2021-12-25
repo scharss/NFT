@@ -1,0 +1,15 @@
+0.01245464BNB
+
+
+https://bscscan.com/tx/0xf48b7d9458b8f148caeffa721cc36a9fb94ea8855aad2f24f011a5d9406d0dcb
+
+Contract
+
+https://bscscan.com/address/0x2427891991aaaaa31afc1b07669ea5c7f035a204#code
+
+0x2427891991aaaaa31afc1b07669ea5c7f035a204
+
+0.00067998BNB
+
+https://bscscan.com/tx/0x117e6a2ae05d5c56981c26673a6e0dfcb2ac2df66a9085f5e8a62c42c0a7c926
+
