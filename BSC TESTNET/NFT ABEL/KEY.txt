@@ -1,0 +1,24 @@
+IMG IPFS
+https://ipfs.io/ipfs/QmaG6HjCRVcuwGU14UdaMDPcbTXzLUTqZb8DN1MFXUh5Yn
+
+JSON IPFS
+https://ipfs.io/ipfs/QmcYUEv9n6wbJbFHo8jGsi84BvPXsGJi2PUY8gPNrQkrj5
+
+
+0.02490892BNB
+https://testnet.bscscan.com/tx/0xeeae64e5ca5f5ff14648aed7594527d2c9c927578b425f730a06de2c2d861ac9
+
+
+SC
+0x2C476504684Bf71c8849131942da01F12FD319DD
+
+
+[Contract 0x2c476504684bf71c8849131942da01f12fd319ddCreated]
+
+
+https://testnet.bscscan.com/address/0x2c476504684bf71c8849131942da01f12fd319dd#code
+
+0.00135997BNB
+
+https://testnet.bscscan.com/tx/0xeab1298e3bc98f8f7aadf15fdbbd623a96f6339064b81013cffa1ebb457af70b
+
