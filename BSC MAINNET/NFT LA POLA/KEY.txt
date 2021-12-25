@@ -1,0 +1,16 @@
+0.01245464
+
+
+
+https://bscscan.com/tx/0x97492c1beba7a8c4afd56467bacd71e22150537c7c9eb793e2134672b12bb851
+
+SC:
+
+0x7ED5e76C5C2e8F3406D4A2d1E9c89E1191a552D2
+
+
+
+https://bscscan.com/address/0x7ed5e76c5c2e8f3406d4a2d1e9c89e1191a552d2#code
+
+0.00067998BNB
+https://bscscan.com/tx/0x89c46f56b17e17d6e89259fa5a10452772d9ecffdecd295a3ccc89a7cc40dc08
