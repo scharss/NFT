@@ -1,0 +1,28 @@
+https://ipfs.io/ipfs/QmQWCq7r1WByxdSMxfTGvH54aP6gBLpUJKbodiYXykqeGF
+
+
+https://ipfs.io/ipfs/QmSARViV6QzkUKci3T1a7YevX5GpfgAXqHuJ6pLn5TTNYv
+
+
+https://rinkeby.etherscan.io/tx/0x91bb6dc019c92d93a6e954b0f6b60216400de7670ed4eb57795d6ce61ead7c61
+
+
+
+https://testnets.opensea.io/collection/nftbulk
+
+
+
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.15;
+
+import "@openzeppelin/contracts/token/ERC1155/ERC1155.sol";
+
+contract NFTBulk is ERC1155 {
+    constructor() ERC1155("https://ipfs.io/ipfs/QmQWCq7r1WByxdSMxfTGvH54aP6gBLpUJKbodiYXykqeGF/{id}.json") {
+        
+        for(uint i; i<=50; i++){
+          _mint(msg.sender, i /* Id  */, 1 /* Cantidad */, "");
+        }
+        
+    }
+}
