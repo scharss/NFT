@@ -1,0 +1,12 @@
+WormCards
+
+Img
+https://ipfs.io/ipfs/QmZFc6Ndt5umRqi25PXvsddbBe3pZoqnXc4PgkujVov8G2
+
+json
+
+https://ipfs.io/ipfs/QmWaWQtNhUCZyzRkgcwgncRJa5SnkdAeQum6W8oELHZxUa
+
+json64
+
+https://ipfs.io/ipfs/QmQXnQTrVmbtcRZP3GF3vEo9K35MwL5jaAhk3Nw1t9kYge
