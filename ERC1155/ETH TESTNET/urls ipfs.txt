@@ -32,4 +32,27 @@ https://ipfs.io/ipfs/bafybeia2wotkem2zea2cqsfi65v7z6rjlnij5fdaqig4khd5t6ueivne6q
 
 https://ipfs.io/ipfs/bafybeia2wotkem2zea2cqsfi65v7z6rjlnij5fdaqig4khd5t6ueivne6q
 
+
+Worm.json
+
+Gateway URL
+
+https://nftstorage.link/ipfs/bafybeigutzu3ccjxhnrkv3cqpwbeltryjr4m43plgra5cols34swqtkvje
+
+IPFS URL
+
+ipfs://bafybeigutzu3ccjxhnrkv3cqpwbeltryjr4m43plgra5cols34swqtkvje
+
+CID
+
+bafybeigutzu3ccjxhnrkv3cqpwbeltryjr4m43plgra5cols34swqtkvje
+
+
+https://ipfs.io/ipfs/bafybeigutzu3ccjxhnrkv3cqpwbeltryjr4m43plgra5cols34swqtkvje
+
+https://ipfs.io/ipfs/bafybeigutzu3ccjxhnrkv3cqpwbeltryjr4m43plgra5cols34swqtkvje
+
+
+
+
 ________________________________________________________________________________________
