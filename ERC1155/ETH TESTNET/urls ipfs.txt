@@ -16,7 +16,7 @@ json Hex
 
 https://ipfs.io/ipfs/QmRrDsdUP5PewKqfbTLePK4wzjcmENKapKECf9gmPpG3hk
 ----------------------------------------------------------------------------------
-NFT UP - NFTStorage - Img Worms
+NFT UP - NFTStorage - Img Worms -- https://nft.storage/
 
 Gateway URL:
 https://nftstorage.link/ipfs/bafybeia2wotkem2zea2cqsfi65v7z6rjlnij5fdaqig4khd5t6ueivne6q
