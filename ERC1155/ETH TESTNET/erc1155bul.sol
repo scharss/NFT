@@ -1,5 +1,4 @@
 // SPDX-License-Identifier: MIT
-// https://rinkeby.etherscan.io/address/0x9d1318c3524edb3630c123820d90264ffceade4c
 
 pragma solidity ^0.8.15;
 
