@@ -15,3 +15,14 @@ https://ipfs.io/ipfs/QmQXnQTrVmbtcRZP3GF3vEo9K35MwL5jaAhk3Nw1t9kYge
 json Hex
 
 https://ipfs.io/ipfs/QmRrDsdUP5PewKqfbTLePK4wzjcmENKapKECf9gmPpG3hk
+----------------------------------------------------------------------------------
+NFT UP - NFTStorage
+
+Gateway URL:
+https://nftstorage.link/ipfs/bafybeia2wotkem2zea2cqsfi65v7z6rjlnij5fdaqig4khd5t6ueivne6q
+
+IPFS URL:
+ipfs://bafybeia2wotkem2zea2cqsfi65v7z6rjlnij5fdaqig4khd5t6ueivne6q
+
+CID:
+bafybeia2wotkem2zea2cqsfi65v7z6rjlnij5fdaqig4khd5t6ueivne6q
